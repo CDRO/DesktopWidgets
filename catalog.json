@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "v0.1.0-rc.4",
-  "generated": "2026-10-26T12:02:39.20546005Z",
+  "release": "v0.1.0",
+  "generated": "2026-10-26T13:01:06.94076386Z",
   "widgets": [
     {
       "id": "clock",
@@ -10,10 +10,10 @@
       "description": "Analog or digital clock with date, optional seconds and time zone.",
       "category": "time",
       "version": "1.0.0",
-      "released": "v0.1.0-rc.4",
-      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0-rc.4",
+      "released": "v0.1.0",
+      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0",
       "notes": "First release.",
-      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0.png",
+      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0.png",
       "assets": [
         {
           "target": "debian-12-amd64",
@@ -22,9 +22,9 @@
           "distro": "debian-12",
           "format": "deb",
           "file": "dw-clock_1.0.0_debian-12-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_debian-12-amd64.deb",
-          "size": 4707368,
-          "sha256": "099fcd4ef6e0b2066d05ed244ef058b4df4c5fdd71bb47bd648d532954c33ac9"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_debian-12-amd64.deb",
+          "size": 4707358,
+          "sha256": "849e4fcf329112a5f89392af652bdb4c1deed3570e9d9e5d5c9f02b50b2e1eda"
         },
         {
           "target": "debian-13-amd64",
@@ -33,9 +33,9 @@
           "distro": "debian-13",
           "format": "deb",
           "file": "dw-clock_1.0.0_debian-13-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_debian-13-amd64.deb",
-          "size": 4700924,
-          "sha256": "1157ea46b4a368b290b379e6509a5f6a12dfebda0f143ee2b73a01868cf6c552"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_debian-13-amd64.deb",
+          "size": 4700928,
+          "sha256": "f69ec31ac57845158ad8932ab9827a66054b0a90549e2b18a4a4dd5a283e07f3"
         },
         {
           "target": "fedora-43-amd64",
@@ -44,9 +44,9 @@
           "distro": "fedora-43",
           "format": "rpm",
           "file": "dw-clock_1.0.0_fedora-43-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_fedora-43-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_fedora-43-amd64.rpm",
           "size": 4695472,
-          "sha256": "9dc4fe4a521547b3357f94a9f8397b6e960a1b016371d5fe0c4be2d924a5e782"
+          "sha256": "59839309667444413144df313d1d4c114940a543381e201b3d8b917881bde7e1"
         },
         {
           "target": "fedora-44-amd64",
@@ -55,9 +55,9 @@
           "distro": "fedora-44",
           "format": "rpm",
           "file": "dw-clock_1.0.0_fedora-44-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_fedora-44-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_fedora-44-amd64.rpm",
           "size": 4695712,
-          "sha256": "5e071b67461d45782bcb8a428649d33113b5a0e398b852c8d08db712570075f4"
+          "sha256": "7ec5ca48702d20b5e4551608ecaa979cc53079a4629c07f6d72f802c7c90ed81"
         },
         {
           "target": "flatpak-amd64",
@@ -65,9 +65,9 @@
           "arch": "amd64",
           "format": "flatpak",
           "file": "dw-clock_1.0.0_flatpak-amd64.flatpak",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_flatpak-amd64.flatpak",
-          "size": 3816672,
-          "sha256": "95227d0803c88061ba03a5c1644c4794697057976963d24f7bdf47f71c74e70f"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_flatpak-amd64.flatpak",
+          "size": 3816304,
+          "sha256": "f8aff3687e0345834666113efaeecac31875a0d1f70e981fffefedbde838efba"
         },
         {
           "target": "linux-amd64",
@@ -75,9 +75,9 @@
           "arch": "amd64",
           "format": "tar.gz",
           "file": "dw-clock_1.0.0_linux-amd64.tar.gz",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_linux-amd64.tar.gz",
-          "size": 4720963,
-          "sha256": "7f11bf961215b4fbe21f0348a5daf39266b88b450ec52a27518bddc8f0605287"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_linux-amd64.tar.gz",
+          "size": 4720964,
+          "sha256": "08674831dabc2e47f6189715b5840e5787ba9fc0fdf5a171254a9ac74b1bf94a"
         },
         {
           "target": "ubuntu-24.04-amd64",
@@ -86,9 +86,9 @@
           "distro": "ubuntu-24.04",
           "format": "deb",
           "file": "dw-clock_1.0.0_ubuntu-24.04-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_ubuntu-24.04-amd64.deb",
-          "size": 4707552,
-          "sha256": "212463e476a4ab274e3004a7a41956cdb5fd59a5156f79f3b5d31b2f017bc194"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_ubuntu-24.04-amd64.deb",
+          "size": 4707550,
+          "sha256": "901fd39c48795a0d627bf5c75390241c852fad0c47dc1530d5bb4ac0a6979be0"
         },
         {
           "target": "windows-amd64",
@@ -96,9 +96,9 @@
           "arch": "amd64",
           "format": "msi",
           "file": "dw-clock_1.0.0_windows-amd64.msi",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_windows-amd64.msi",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_windows-amd64.msi",
           "size": 3993600,
-          "sha256": "90c51dbfd57f2acd41e641a7a06f872f33cf41168618b7decf705fca68b6a7c3"
+          "sha256": "0e694b4dc7496b93a375d461426cc94501224ed80e18a4a029898e24599e77af"
         },
         {
           "target": "windows-amd64",
@@ -106,9 +106,9 @@
           "arch": "amd64",
           "format": "zip",
           "file": "dw-clock_1.0.0_windows-amd64.zip",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-clock_1.0.0_windows-amd64.zip",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-clock_1.0.0_windows-amd64.zip",
           "size": 4823442,
-          "sha256": "71eec5ade31b84111d2a6fe91695d9cd612181e4003a17b950c3304d03be1fd7"
+          "sha256": "de5a86352f867835d748f8a9886a47f3e70f8acb04dae9f47c5160cebc5a7f2c"
         }
       ]
     },
@@ -119,10 +119,10 @@
       "description": "Browse, install and update DesktopWidgets. Optional; every widget also installs on its own.",
       "category": "system",
       "version": "1.0.0",
-      "released": "v0.1.0-rc.4",
-      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0-rc.4",
+      "released": "v0.1.0",
+      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0",
       "notes": "First release.",
-      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0.png",
+      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0.png",
       "assets": [
         {
           "target": "debian-12-amd64",
@@ -131,9 +131,9 @@
           "distro": "debian-12",
           "format": "deb",
           "file": "dw-library_1.0.0_debian-12-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_debian-12-amd64.deb",
-          "size": 4708776,
-          "sha256": "6e5937d0b63588e66f1291598d6a7b784f6e005e81f46c7b1328d5f0e0d2c981"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_debian-12-amd64.deb",
+          "size": 4708772,
+          "sha256": "1899cfcbd954ff1d56a218c66ef06f364996dab2794a77b2928ec3b8d6a971b5"
         },
         {
           "target": "debian-13-amd64",
@@ -142,9 +142,9 @@
           "distro": "debian-13",
           "format": "deb",
           "file": "dw-library_1.0.0_debian-13-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_debian-13-amd64.deb",
-          "size": 4703988,
-          "sha256": "ed38e60e21f6cd0769349247ffe654405cea51b3f65a36da38c1bc48ff38084c"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_debian-13-amd64.deb",
+          "size": 4703984,
+          "sha256": "a777d5311180494d20d68031d3e9aa4468ddebd63f6657e3bef8988e8af99af0"
         },
         {
           "target": "fedora-43-amd64",
@@ -153,9 +153,9 @@
           "distro": "fedora-43",
           "format": "rpm",
           "file": "dw-library_1.0.0_fedora-43-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_fedora-43-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_fedora-43-amd64.rpm",
           "size": 4697863,
-          "sha256": "16257bd724e4e7e01e79392dc8040fbdfad96cdc816a23d391003a713cc73cc4"
+          "sha256": "97b81ade0602dcb4d5ce74163d80442e6a6746ba7a9c2d1928aa7eb24b66d1a7"
         },
         {
           "target": "fedora-44-amd64",
@@ -164,9 +164,9 @@
           "distro": "fedora-44",
           "format": "rpm",
           "file": "dw-library_1.0.0_fedora-44-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_fedora-44-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_fedora-44-amd64.rpm",
           "size": 4697928,
-          "sha256": "e17e26e67d858e8e91aa1fd07e0d4e6ae52c273917cd0837493833abb7b0cc96"
+          "sha256": "2151f327ed194ae38a18bb4e1726cf672dc590cf7068cebd3dbe024bfb2df3c9"
         },
         {
           "target": "flatpak-amd64",
@@ -174,9 +174,9 @@
           "arch": "amd64",
           "format": "flatpak",
           "file": "dw-library_1.0.0_flatpak-amd64.flatpak",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_flatpak-amd64.flatpak",
-          "size": 3820232,
-          "sha256": "cb79cdc27c9a3a541e289b0ecded5ae9256b12ca6f561e405f64d9d4f9dfc8b8"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_flatpak-amd64.flatpak",
+          "size": 3820520,
+          "sha256": "daddda37a69c81bc9577cde8973cfee12e84df6afc8cbeed38f88a412d438399"
         },
         {
           "target": "linux-amd64",
@@ -184,9 +184,9 @@
           "arch": "amd64",
           "format": "tar.gz",
           "file": "dw-library_1.0.0_linux-amd64.tar.gz",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_linux-amd64.tar.gz",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_linux-amd64.tar.gz",
           "size": 4724664,
-          "sha256": "d4c1374f13d3964750d0175a7d603f720ccf0f412ab832008def3555eb4b9970"
+          "sha256": "3062b008108793e955ddc43310a21aad7b2c025718d1ea3f4406185d8f2b71ac"
         },
         {
           "target": "ubuntu-24.04-amd64",
@@ -195,9 +195,9 @@
           "distro": "ubuntu-24.04",
           "format": "deb",
           "file": "dw-library_1.0.0_ubuntu-24.04-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_ubuntu-24.04-amd64.deb",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_ubuntu-24.04-amd64.deb",
           "size": 4708964,
-          "sha256": "4eae8e21cf2654c9994e3e6825ceede698a07c98ebff9f7ee73b86b7b67f6f0c"
+          "sha256": "dbfddef103c07ed6863a420c78e5fc491765a18f51d6b4b0b3edab234b97f2eb"
         },
         {
           "target": "windows-amd64",
@@ -205,9 +205,9 @@
           "arch": "amd64",
           "format": "msi",
           "file": "dw-library_1.0.0_windows-amd64.msi",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_windows-amd64.msi",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_windows-amd64.msi",
           "size": 3969024,
-          "sha256": "0bf955d45506eb7ce8cd4b661322977b4180c5b6fe7b421d05fb6b2b3dafaf01"
+          "sha256": "a7904d1e3f3789413d99d776355c17312339af4cc760cf1e7e21b59f346f3484"
         },
         {
           "target": "windows-amd64",
@@ -215,9 +215,9 @@
           "arch": "amd64",
           "format": "zip",
           "file": "dw-library_1.0.0_windows-amd64.zip",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-library_1.0.0_windows-amd64.zip",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-library_1.0.0_windows-amd64.zip",
           "size": 4822292,
-          "sha256": "99e75c7a026d9ba97c9811d637f3002968c55982df3d1ec4a0b5a2fea311d445"
+          "sha256": "1ed32b0ae3b0b979d6061bd2682752ef2d31886388a9da4b645a464392a09eba"
         }
       ]
     },
@@ -228,10 +228,10 @@
       "description": "Live quotes with intraday sparkline for a list of symbols.",
       "category": "finance",
       "version": "1.0.0",
-      "released": "v0.1.0-rc.4",
-      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0-rc.4",
+      "released": "v0.1.0",
+      "releaseUrl": "https://github.com/cdro/DesktopWidgets/releases/tag/v0.1.0",
       "notes": "First release.",
-      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0.png",
+      "icon": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0.png",
       "assets": [
         {
           "target": "debian-12-amd64",
@@ -240,9 +240,9 @@
           "distro": "debian-12",
           "format": "deb",
           "file": "dw-stock-ticker_1.0.0_debian-12-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_debian-12-amd64.deb",
-          "size": 4709050,
-          "sha256": "56e9c1aee29f17d207f5e7824594a7c47eab0d133f0ec0b753e3a1ab5f808cfb"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_debian-12-amd64.deb",
+          "size": 4709052,
+          "sha256": "6c2727987a4b0b2d42fb1b70d0c7019b6735d68cca38ee427b8e361b5d104c7d"
         },
         {
           "target": "debian-13-amd64",
@@ -251,9 +251,9 @@
           "distro": "debian-13",
           "format": "deb",
           "file": "dw-stock-ticker_1.0.0_debian-13-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_debian-13-amd64.deb",
-          "size": 4704504,
-          "sha256": "e5c41ac19dd96b2fd933a6c961a49b77031196bfbde9a0187f605619c1bdafac"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_debian-13-amd64.deb",
+          "size": 4704500,
+          "sha256": "dbc7f2f8aa88fb6a964e77feb6dd41ca07ba307950ec3cb105ea866c32478965"
         },
         {
           "target": "fedora-43-amd64",
@@ -262,9 +262,9 @@
           "distro": "fedora-43",
           "format": "rpm",
           "file": "dw-stock-ticker_1.0.0_fedora-43-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_fedora-43-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_fedora-43-amd64.rpm",
           "size": 4697645,
-          "sha256": "a8cc34d236400863a1f3987a6e73cc34bfbe27184ba2785dbb1723b6b3f796a4"
+          "sha256": "4a549098b05f358926ce0a47a10f58a9ce8e92a7e9bd3ceea330fe59bc644d5f"
         },
         {
           "target": "fedora-44-amd64",
@@ -273,9 +273,9 @@
           "distro": "fedora-44",
           "format": "rpm",
           "file": "dw-stock-ticker_1.0.0_fedora-44-amd64.rpm",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_fedora-44-amd64.rpm",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_fedora-44-amd64.rpm",
           "size": 4697670,
-          "sha256": "bb584cdcbea622d3d2dd1249e7c1e7014e7f7be77a954c5ca05f233e6eb4c9d7"
+          "sha256": "53b089716c9dd7ee2f7c253ce5f38007ddeda5bd2cebc63575132500811cc3ff"
         },
         {
           "target": "flatpak-amd64",
@@ -283,9 +283,9 @@
           "arch": "amd64",
           "format": "flatpak",
           "file": "dw-stock-ticker_1.0.0_flatpak-amd64.flatpak",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_flatpak-amd64.flatpak",
-          "size": 3818344,
-          "sha256": "dcc6311c137521b7acc3daa9c8a0f83ed30b7c0dc929356867edf6b57f183526"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_flatpak-amd64.flatpak",
+          "size": 3818760,
+          "sha256": "72c338feaf3743dca4ead75f9101c4f3855535dd3d868caa961b7c7c19adcd23"
         },
         {
           "target": "linux-amd64",
@@ -293,9 +293,9 @@
           "arch": "amd64",
           "format": "tar.gz",
           "file": "dw-stock-ticker_1.0.0_linux-amd64.tar.gz",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_linux-amd64.tar.gz",
-          "size": 4725303,
-          "sha256": "38becad362544b7a3fb624ac7bbda5978272b9807f780b1fa91dee9f2d0f2137"
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_linux-amd64.tar.gz",
+          "size": 4725304,
+          "sha256": "4aa395e37813ad9b654e1109fcd4ad9bbbbdc11b9f74b68d59b8b7c5cc01c89f"
         },
         {
           "target": "ubuntu-24.04-amd64",
@@ -304,9 +304,9 @@
           "distro": "ubuntu-24.04",
           "format": "deb",
           "file": "dw-stock-ticker_1.0.0_ubuntu-24.04-amd64.deb",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_ubuntu-24.04-amd64.deb",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_ubuntu-24.04-amd64.deb",
           "size": 4709334,
-          "sha256": "350b06d609027a254ea5fe2bc92832e6a2f37e28adbd88c385b31fdbca7f0e2a"
+          "sha256": "19fac9d09f86298d8e1ce9d09d64f00ac6c4f93d45685f79221ad3dddcbe903e"
         },
         {
           "target": "windows-amd64",
@@ -314,9 +314,9 @@
           "arch": "amd64",
           "format": "msi",
           "file": "dw-stock-ticker_1.0.0_windows-amd64.msi",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_windows-amd64.msi",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_windows-amd64.msi",
           "size": 3981312,
-          "sha256": "bd0ca841e01580a8a505f8a20185bdc0e5ae338106bf65928a8933f9c91dc137"
+          "sha256": "edb48a837c3523b2f269fdd99a8ba241523096d1afd8331b8eb5d47fec09e5ac"
         },
         {
           "target": "windows-amd64",
@@ -324,9 +324,9 @@
           "arch": "amd64",
           "format": "zip",
           "file": "dw-stock-ticker_1.0.0_windows-amd64.zip",
-          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0-rc.4/dw-stock-ticker_1.0.0_windows-amd64.zip",
+          "url": "https://github.com/cdro/DesktopWidgets/releases/download/v0.1.0/dw-stock-ticker_1.0.0_windows-amd64.zip",
           "size": 4825155,
-          "sha256": "b3954ff15855aecc5477b549a237f46150e56d0b792d7f140ddfaa7633a9508c"
+          "sha256": "cc004a68a295657d4e653a2760401b9860d8374616b5118ac1c84f311f9ea7fa"
         }
       ]
     }
